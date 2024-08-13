@@ -1,0 +1,52 @@
+{
+  "recipes": [
+    {
+      "language": [
+        {
+          "english": {
+            "name": "Granola",
+            "description": "A very tasteful and quick home-made Granola",
+            "ingredients": [
+              { "name": "Sugar", "amount": "500g" },
+              { "name": "Oatmeal", "amount": "600g" },
+              { "name": "Honey", "amount": "300g" }
+            ]
+          },
+          "swedish": {
+            "name": "Granola",
+            "description": "En jättegod och snabbt lagad hemgjord Granola",
+            "ingredients": [
+              { "name": "Socker", "amount": "500g" },
+              { "name": "Havre", "amount": "600g" },
+              { "name": "Honung", "amount": "300g" }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "language": [
+        {
+          "english": {
+            "name": "Italian tomatosauce",
+            "description": "A very tasteful and quick home-made Tomatosauce",
+            "ingredients": [
+              { "name": "Sugar", "amount": "500g" },
+              { "name": "Oatmeal", "amount": "600g" },
+              { "name": "Honey", "amount": "300g" }
+            ]
+          },
+          "swedish": {
+            "name": "Italiensk tomatsås",
+            "description": "En jättegod och snabbt lagad hemgjord Tomatsås",
+            "ingredients": [
+              { "name": "Socker", "amount": "500g" },
+              { "name": "Havre", "amount": "600g" },
+              { "name": "Honung", "amount": "300g" }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
