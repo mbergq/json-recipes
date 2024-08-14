@@ -4,7 +4,7 @@
       "language": [
         {
           "english": {
-            "name": "Granola",
+            "name": "Homemade Granola",
             "description": "A very tasteful and quick home-made Granola",
             "ingredients": [
               { "name": "Sugar", "amount": "500g" },
@@ -13,12 +13,28 @@
             ]
           },
           "swedish": {
-            "name": "Granola",
-            "description": "En jättegod och snabbt lagad hemgjord Granola",
+            "name": "Hemgjord Granola",
+            "time": "15min",
+            "description": "En god och snabbt lagad Granola",
             "ingredients": [
-              { "name": "Socker", "amount": "500g" },
-              { "name": "Havre", "amount": "600g" },
-              { "name": "Honung", "amount": "300g" }
+              { "name": "Havre", "amount": "6dl" },
+              { "name": "Solrosfrön", "amount": "2dl" },
+              { "name": "Pumpakärnor", "amount": "2dl" },
+              { "name": "Kokosflingor", "amount": "1dl" },
+              { "name": "Jordnötssmör", "amount": "2-3msk" },
+              { "name": "Vatten", "amount": "1dl" },
+              { "name": "Honung", "amount": "3msk" },
+              { "name": "Russin", "amount": "1dl" },
+              { "name": "Kanel", "amount": "" },
+              { "name": "Salt", "amount": "" }
+            ],
+            "instructions": [
+              "Sätt på ugnen på 200 grader",
+              "Häll i havre, solrosfrön, pumpakärnor, kokosflingor, russin kanel och salt i en stor bunke och blanda runt.",
+              "Häll sedan i vatten jordnötssmör och honung i en egen mindre bunke. Använd en stavmixer för att blanda ihop detta till en lättare smet.",
+              "Blanda smeten med torrvarorna i den större bunken, blanda ordentligt",
+              "Lägg röran på en plåt med bakugnspapper och sprid ut det jämnt över hela plåten. Sätt i mitten av ugnen på 200 grader och låt stå i 15min",
+              "När det gått 15 minuter så stänger du av ugnen men låter plåten med granolan stå kvar på eftervärme i minst 4 timmar eller över natten."
             ]
           }
         }
@@ -38,7 +54,7 @@
           },
           "swedish": {
             "name": "Italiensk tomatsås",
-            "description": "En jättegod och snabbt lagad hemgjord Tomatsås",
+            "description": "En god och snabbt lagad hemgjord Tomatsås",
             "ingredients": [
               { "name": "Socker", "amount": "500g" },
               { "name": "Havre", "amount": "600g" },
