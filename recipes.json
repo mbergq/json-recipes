@@ -4,6 +4,7 @@
       "language": [
         {
           "english": {
+            "id": 1,
             "name": "Homemade Granola",
             "description": "A very tasteful and quick home-made Granola",
             "ingredients": [
@@ -13,6 +14,7 @@
             ]
           },
           "swedish": {
+            "id": 1,
             "name": "Hemgjord Granola",
             "time": "15min",
             "description": "En god och snabbt lagad Granola",
@@ -44,6 +46,7 @@
       "language": [
         {
           "english": {
+            "id": 2,
             "name": "Italian tomatosauce",
             "description": "A very tasteful and quick home-made Tomatosauce",
             "ingredients": [
@@ -53,6 +56,7 @@
             ]
           },
           "swedish": {
+            "id": 2,
             "name": "Italiensk tomatsås",
             "description": "En god och snabbt lagad hemgjord Tomatsås",
             "ingredients": [
